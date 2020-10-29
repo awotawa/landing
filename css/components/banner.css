@@ -1,0 +1,17 @@
+.banner {
+  color: white;
+  height: 600px;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner p {
+  color: #dbdbdb;
+  font-size: 20px;
+}
+
+.banner a {
+  margin: 10px;
+}

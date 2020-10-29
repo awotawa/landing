@@ -1,0 +1,24 @@
+.footer {
+  background-color: #5C457A;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fab {
+  color: #B96592;
+  font-size: 50px;
+  opacity: 0.7;
+  padding: 10px;
+}
+
+.fab:hover {
+  opacity: 1;
+}
+
+.footer p {
+  color: #dbdbdb;
+  font-size: 15px;
+}
+
